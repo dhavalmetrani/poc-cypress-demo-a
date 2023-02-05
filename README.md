@@ -5,6 +5,8 @@ poc-cypress-demo-a
 # Documentation for setup
 https://docs.cypress.io/guides/getting-started/installing-cypress
 
+- Install nodejs 14 https://nodejs.org/en/blog/release/v14.17.3/
+
 ```
 npm install cypress --save-dev
 ```
