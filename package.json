@@ -1,0 +1,22 @@
+{
+  "name": "poc-cypress-demo-a",
+  "version": "1.0.0",
+  "description": "poc for cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhavalmetrani/poc-cypress-demo-a.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhavalmetrani/poc-cypress-demo-a/issues"
+  },
+  "homepage": "https://github.com/dhavalmetrani/poc-cypress-demo-a#readme",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
